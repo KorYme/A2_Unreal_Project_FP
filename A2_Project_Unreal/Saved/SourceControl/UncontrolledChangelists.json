@@ -20,7 +20,9 @@
 				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Sprint.uasset",
 				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Movement.uasset",
 				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Jump.uasset",
-				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Interact.uasset"
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Interact.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Data/Interfaces/I_Interactable.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset"
 			]
 		}
 	]

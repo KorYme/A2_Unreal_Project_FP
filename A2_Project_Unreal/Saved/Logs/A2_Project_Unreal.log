@@ -2320,3 +2320,265 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.15-21.08.03:982][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
 [2023.02.15-21.08.04:030][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
 [2023.02.15-21.08.04:075][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.15-21.08.58:939][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.08.58:995][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.08.59:008][596]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.08.59:008][596]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character92CF1E76412B9A8C6B7ADEA1BD419002.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.08.59:016][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 4.70 sec)
+[2023.02.15-21.08.59:023][596]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.08.59:023][596]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.08.59:726][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.15-21.09.00:700][693]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-21.09.00:778][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.15-21.21.06:401][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.02.15-21.21.47:632][681]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.15-21.21.47:643][681]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.15-21.21.47:652][682]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.15-21.21.51:733][906]LogContentBrowser: Attempting asset rename: NewFolder -> Interafaces
+[2023.02.15-21.21.51:733][906]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.15-21.21.56:082][167]LogContentBrowser: Attempting asset rename: Interafaces -> Interfaces
+[2023.02.15-21.23.01:589][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.23.01:639][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-21.23.01:640][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-21.23.01:690][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.02.15-21.23.01:696][341]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-21.23.01:696][341]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_MaximeB638E99246A5A3C42815308D822AA8E0.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-21.23.01:708][341]LogFileHelpers: Saving map 'LVL_Maxime' took 0.070
+[2023.02.15-21.23.01:716][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 4.83 sec)
+[2023.02.15-21.23.01:723][341]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-21.23.01:723][341]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-21.23.18:211][205]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2023.02.15-21.23.18:217][205]LogContentBrowser: Creating deferred item: NewInterface
+[2023.02.15-21.23.18:247][207]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2023.02.15-21.23.25:274][629]LogContentBrowser: Attempting asset rename: NewInterface -> I_Interactable
+[2023.02.15-21.23.25:296][629]LogContentBrowser: End creating deferred item NewInterface
+[2023.02.15-21.23.26:851][717]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Data/Interfaces/I_Interactable.I_Interactable
+[2023.02.15-21.23.26:852][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-21.23.27:902][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.23.27:937][762]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to  Window : I_Interactable .
+[2023.02.15-21.23.27:967][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Interfaces/I_Interactable" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Data/Interfaces/I_Interactable.uasset" SILENT=true
+[2023.02.15-21.23.27:968][762]LogSavePackage: Moving output files for package: /Game/Data/Interfaces/I_Interactable
+[2023.02.15-21.23.27:968][762]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/I_InteractableF31CBB8B448961849AD6168A1D92AE7E.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Data/Interfaces/I_Interactable.uasset'
+[2023.02.15-21.23.27:975][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.90 sec)
+[2023.02.15-21.23.27:982][762]AssetCheck: New page: Asset Save: I_Interactable
+[2023.02.15-21.23.27:982][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Data/Interfaces/I_Interactable.I_Interactable
+[2023.02.15-21.23.32:944][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.23.32:998][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Interfaces/I_Interactable" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Data/Interfaces/I_Interactable.uasset" SILENT=true
+[2023.02.15-21.23.33:000][ 57]LogSavePackage: Moving output files for package: /Game/Data/Interfaces/I_Interactable
+[2023.02.15-21.23.33:000][ 57]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/I_InteractableF774383F4D5D64B5CE168C9E2A830651.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Data/Interfaces/I_Interactable.uasset'
+[2023.02.15-21.23.33:006][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 4.96 sec)
+[2023.02.15-21.23.33:013][ 57]AssetCheck: New page: Asset Save: I_Interactable
+[2023.02.15-21.23.33:013][ 57]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Data/Interfaces/I_Interactable.I_Interactable
+[2023.02.15-21.23.33:756][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.23.33:809][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/Interfaces/I_Interactable" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Data/Interfaces/I_Interactable.uasset" SILENT=true
+[2023.02.15-21.23.33:811][102]LogSavePackage: Moving output files for package: /Game/Data/Interfaces/I_Interactable
+[2023.02.15-21.23.33:811][102]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/I_Interactable18A0A1BE43FB0CD3390C669E833A534D.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Data/Interfaces/I_Interactable.uasset'
+[2023.02.15-21.23.33:817][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 5.02 sec)
+[2023.02.15-21.23.33:823][102]AssetCheck: New page: Asset Save: I_Interactable
+[2023.02.15-21.23.33:823][102]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Data/Interfaces/I_Interactable.I_Interactable
+[2023.02.15-21.23.35:266][189]BlueprintLog: New page: Compile I_Interactable
+[2023.02.15-21.23.35:321][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.15-21.23.35:846][219]LogSlate: Window 'I_Interactable' being destroyed
+[2023.02.15-21.23.35:860][219]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-21.23.35:860][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-21.23.44:532][620]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.15-21.23.44:538][620]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.15-21.23.44:544][620]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.15-21.23.44:571][622]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.15-21.23.57:027][369]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TestCarrying
+[2023.02.15-21.23.57:123][369]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.15-21.31.31:188][771]LogDerivedDataCache: C:/Users/max22/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.080 and deleted 0 files with total size 0 MiB. Scanned 3441 files in 3416 folders with total size 191 MiB.
+[2023.02.15-21.37.41:126][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.37.41:192][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.37.41:206][581]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.37.41:206][581]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterABC0E48041C02CCADCFCC7B795B14B88.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.37.41:215][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.11 sec)
+[2023.02.15-21.37.41:227][581]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.37.41:227][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.37.42:077][631]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-21.37.42:159][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.02.15-21.37.47:131][917]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.37.47:132][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-21.37.47:768][917]LogViewport: Scene viewport resized to 1207x656, mode Windowed.
+[2023.02.15-21.38.15:333][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.38.15:411][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.38.15:778][342]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.38.15:778][342]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying6D9419A949CC9009C31F5EA9D6866F58.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.38.15:787][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 453 ms (total: 5.56 sec)
+[2023.02.15-21.38.15:794][342]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.38.15:794][342]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.38.16:025][354]BlueprintLog: New page: Compile BP_TestCarrying
+[2023.02.15-21.38.16:113][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.02.15-21.38.34:928][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.38.34:999][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.38.35:002][321]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.38.35:003][321]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying746639964F0A30059983ACBCC0FBD580.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.38.35:011][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 5.65 sec)
+[2023.02.15-21.38.35:019][321]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.38.35:020][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.38.36:083][377]BlueprintLog: New page: Compile BP_TestCarrying
+[2023.02.15-21.38.36:170][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.02.15-21.38.49:663][ 67]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-21.38.49:664][ 67]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-21.38.49:664][ 67]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-21.38.58:486][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.38.58:571][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.38.58:574][509]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.38.58:574][509]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying6E41036B4AC81A8119A8E88E2176CF80.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.38.58:582][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 5.74 sec)
+[2023.02.15-21.38.58:590][509]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.38.58:590][509]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.38.59:861][578]BlueprintLog: New page: Compile BP_TestCarrying
+[2023.02.15-21.38.59:945][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.02.15-21.39.19:975][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.39.20:055][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.39.20:057][739]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.39.20:058][739]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying15B0D55D4B7F5EE299CAC08D76108C00.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.39.20:065][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 5.83 sec)
+[2023.02.15-21.39.20:072][739]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.39.20:072][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.39.22:847][906]BlueprintLog: New page: Compile BP_TestCarrying
+[2023.02.15-21.39.22:929][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.02.15-21.39.25:578][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.39.25:653][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.39.25:656][ 64]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.39.25:657][ 64]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying327D04CB4A5F736E3249A3BE229007F8.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.39.25:664][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.92 sec)
+[2023.02.15-21.39.25:671][ 64]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.39.25:671][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.39.29:205][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.39.29:272][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.39.29:274][276]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.39.29:275][276]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying75E572C74A609D3A3FF1AA8F69C22A44.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.39.29:282][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 6.00 sec)
+[2023.02.15-21.39.29:290][276]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.39.29:290][276]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.39.56:208][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.39.56:280][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.39.56:283][803]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.39.56:283][803]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying36061D2B4570FF92ACC06FB738EBAFCC.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.39.56:291][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.08 sec)
+[2023.02.15-21.39.56:298][803]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.39.56:298][803]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.40.10:729][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.15-21.40.10:732][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.40.10:777][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.40.10:780][599]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.40.10:781][599]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarryingB3281261455FCD1855A20FBF226516E9.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.40.10:788][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 6.14 sec)
+[2023.02.15-21.40.10:795][599]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.40.10:795][599]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.40.37:651][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.40.37:746][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.40.37:749][ 50]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.40.37:749][ 50]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying141F263448DC0317413BF096D6D4653E.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.40.37:757][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 6.24 sec)
+[2023.02.15-21.40.37:764][ 50]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.40.37:764][ 50]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.40.41:591][238]LogSlate: Window 'BP_TestCarrying' being destroyed
+[2023.02.15-21.41.11:159][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.41.11:227][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.41.11:230][309]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.41.11:231][309]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying611B2AED4970245A77F5F99AAE6D19B6.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.41.11:237][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 6.32 sec)
+[2023.02.15-21.41.11:246][309]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.41.11:246][309]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.42.04:262][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.42.04:373][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.42.04:377][298]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.42.04:377][298]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying604924B54476A35129BF8991C5095B17.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.42.04:385][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 6.44 sec)
+[2023.02.15-21.42.04:392][298]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.42.04:392][298]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.49.47:074][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.49.47:149][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.49.47:152][687]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.49.47:153][687]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarryingE9D6F107448972F4DF1DEFBE104149DE.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.49.47:160][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.53 sec)
+[2023.02.15-21.49.47:171][687]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.49.47:171][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.50.39:901][525]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-21.50.39:902][525]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-21.50.39:902][525]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-21.51.01:561][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.51.01:619][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.51.01:634][803]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.51.01:634][803]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterAA286A5B463E3BA4FA2D41ADD5A8984F.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.51.01:642][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 6.61 sec)
+[2023.02.15-21.51.01:650][803]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.51.01:650][803]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.51.02:557][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.51.02:611][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.51.02:625][858]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.51.02:625][858]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterDBE6002C46EF0E213D56DDB0D099632B.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.51.02:632][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.68 sec)
+[2023.02.15-21.51.02:639][858]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.51.02:640][858]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.51.15:109][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.51.15:171][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.51.15:192][566]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.51.15:193][566]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character6C0E6A8045ED2A8F7CD68E99B3A63F7E.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.51.15:203][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.78 sec)
+[2023.02.15-21.51.15:214][566]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.51.15:214][566]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.51.16:155][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.51.16:218][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.51.16:232][623]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.51.16:233][623]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character44E3A2154BAA7DAB08A6F7880C045D32.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.51.16:240][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 6.86 sec)
+[2023.02.15-21.51.16:246][623]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.51.16:246][623]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.51.17:424][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.15-21.51.19:231][800]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-21.51.19:323][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.02.15-21.52.19:383][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.52.19:478][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.52.19:483][342]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.52.19:484][342]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying6991D1FF4F69AC36D2C9B08D1B624320.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.52.19:492][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 6.97 sec)
+[2023.02.15-21.52.19:500][342]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.52.19:500][342]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.52.21:579][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.52.21:638][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.52.21:642][466]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.52.21:643][466]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarryingE536A59C49C70339B8080B8863ED9AE4.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.52.21:648][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 7.04 sec)
+[2023.02.15-21.52.21:657][466]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.52.21:657][466]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.52.23:712][590]BlueprintLog: New page: Compile BP_TestCarrying
+[2023.02.15-21.52.23:791][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.15-21.52.29:650][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.52.29:742][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Actors/BP_TestCarrying" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset" SILENT=true
+[2023.02.15-21.52.29:747][938]LogSavePackage: Moving output files for package: /Game/BluePrints/Actors/BP_TestCarrying
+[2023.02.15-21.52.29:747][938]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_TestCarrying7505252A4A7F7849CB2126A4E021E652.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Actors/BP_TestCarrying.uasset'
+[2023.02.15-21.52.29:755][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 7.14 sec)
+[2023.02.15-21.52.29:762][938]AssetCheck: New page: Asset Save: BP_TestCarrying
+[2023.02.15-21.52.29:762][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying
+[2023.02.15-21.53.46:058][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying_C
+[2023.02.15-21.53.46:068][472]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying_C
+[2023.02.15-21.53.46:070][472]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying as actor: BP_TestCarrying_C /Game/Levels/LVL_Maxime.LVL_Maxime:PersistentLevel.BP_TestCarrying_C_0
+[2023.02.15-21.53.46:071][472]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying as actor: BP_TestCarrying_C /Game/Levels/LVL_Maxime.LVL_Maxime:PersistentLevel.BP_TestCarrying_C_0
+[2023.02.15-21.53.46:074][472]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.02.15-21.53.46:321][487]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying_C
+[2023.02.15-21.53.46:321][487]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying_C
+[2023.02.15-21.53.46:323][487]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying as actor: BP_TestCarrying_C /Game/Levels/LVL_Maxime.LVL_Maxime:PersistentLevel.BP_TestCarrying_C_1
+[2023.02.15-21.53.46:324][487]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/Actors/BP_TestCarrying.BP_TestCarrying as actor: BP_TestCarrying_C /Game/Levels/LVL_Maxime.LVL_Maxime:PersistentLevel.BP_TestCarrying_C_1
+[2023.02.15-21.54.30:389][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.02.15-21.54.30:392][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-21.54.30:398][750]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LVL_Maxime_Auto3
+[2023.02.15-21.54.30:398][750]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime_Auto3AEF6BDDE43AC01E3E073BAB8101D36DA.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/Autosaves/Game/Levels/LVL_Maxime_Auto3.umap'
+[2023.02.15-21.54.30:408][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LVL_Maxime' took 0.080
+[2023.02.15-21.54.30:408][750]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2023.02.15-22.31.31:203][411]LogDerivedDataCache: C:/Users/max22/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.095 and deleted 6 files with total size 0 MiB. Scanned 3441 files in 3416 folders with total size 191 MiB.
+[2023.02.15-22.34.00:026][ 61]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-22.34.00:026][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-22.34.20:410][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-22.34.20:466][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-22.34.20:468][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-22.34.20:530][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.02.15-22.34.20:541][559]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-22.34.20:542][559]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_MaximeDD2F42874A0D3D8F7A1ACD89CA9CD059.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-22.34.20:556][559]LogFileHelpers: Saving map 'LVL_Maxime' took 0.091
+[2023.02.15-22.34.20:563][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 7.30 sec)
+[2023.02.15-22.34.20:572][559]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-22.34.20:572][559]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
