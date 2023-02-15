@@ -1088,3 +1088,1235 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.15-19.36.57:807][862]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
 [2023.02.15-19.37.03:708][216]BlueprintLog: New page: Compile PC_Character
 [2023.02.15-19.37.03:863][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.02.15-19.38.33:434][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.38.33:492][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.38.33:496][969]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.38.33:496][969]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character71A0BDD1426ADB5BA1BF30A6AF127F9A.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.38.33:502][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 388 ms)
+[2023.02.15-19.38.33:508][969]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.38.33:508][969]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.38.36:272][109]LogSlate: Window 'Document' being destroyed
+[2023.02.15-19.38.36:277][109]LogSlate: Window 'Document' being destroyed
+[2023.02.15-19.38.41:650][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.02.15-19.38.44:636][601]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.15-19.38.54:360][972]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-19.38.54:360][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.40.54:715][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.40.54:768][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.40.54:772][179]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.40.54:772][179]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character932A9CA74A04BD79475904B939EFA9CD.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.40.54:778][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 451 ms)
+[2023.02.15-19.40.54:785][179]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.40.54:785][179]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.41.35:581][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.41.35:632][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.41.35:635][221]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.41.35:636][221]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterDC88ACA84F471F2BD56116AAD69C4963.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.41.35:642][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 513 ms)
+[2023.02.15-19.41.35:648][221]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.41.35:648][221]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.41.37:005][303]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-19.41.37:404][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.15-19.41.45:208][728]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.02.15-19.41.45:213][728]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.02.15-19.41.45:256][730]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.02.15-19.41.55:896][367]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Movement
+[2023.02.15-19.41.55:899][367]LogContentBrowser: End creating deferred item NewInputAction
+[2023.02.15-19.42.00:856][625]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.02.15-19.42.00:862][625]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.02.15-19.42.00:871][626]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.02.15-19.42.03:580][785]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Sprint
+[2023.02.15-19.42.03:581][785]LogContentBrowser: End creating deferred item NewInputAction
+[2023.02.15-19.42.10:506][175]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.02.15-19.42.10:513][175]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.02.15-19.42.10:522][176]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.02.15-19.42.16:270][517]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Look
+[2023.02.15-19.42.16:271][517]LogContentBrowser: End creating deferred item NewInputAction
+[2023.02.15-19.42.20:911][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.42.20:954][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Look" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Look.uasset" SILENT=true
+[2023.02.15-19.42.20:954][795]LogSavePackage: Moving output files for package: /Game/Inputs/InputActions/IA_Look
+[2023.02.15-19.42.20:955][795]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IA_Look4162145D475B167A112CABBBF158C04F.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Look.uasset'
+[2023.02.15-19.42.20:955][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Sprint" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Sprint.uasset" SILENT=true
+[2023.02.15-19.42.20:956][795]LogSavePackage: Moving output files for package: /Game/Inputs/InputActions/IA_Sprint
+[2023.02.15-19.42.20:956][795]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IA_Sprint8622E80347A64867575A21848C6958CB.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Sprint.uasset'
+[2023.02.15-19.42.20:957][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Movement" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Movement.uasset" SILENT=true
+[2023.02.15-19.42.20:957][795]LogSavePackage: Moving output files for package: /Game/Inputs/InputActions/IA_Movement
+[2023.02.15-19.42.20:957][795]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IA_MovementC66CC6BA46D085FB995D99B5C2BB9268.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Movement.uasset'
+[2023.02.15-19.42.20:964][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 566 ms)
+[2023.02.15-19.42.20:969][795]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.15-19.42.20:969][795]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/InputActions/IA_Look.IA_Look
+[2023.02.15-19.42.20:969][795]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/InputActions/IA_Sprint.IA_Sprint
+[2023.02.15-19.42.20:969][795]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/InputActions/IA_Movement.IA_Movement
+[2023.02.15-19.42.22:027][858]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Inputs/InputActions/IA_Look.IA_Look
+[2023.02.15-19.42.44:926][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.42.44:972][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Look" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Look.uasset" SILENT=true
+[2023.02.15-19.42.44:973][576]LogSavePackage: Moving output files for package: /Game/Inputs/InputActions/IA_Look
+[2023.02.15-19.42.44:973][576]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IA_Look61D063314DEA55AE2A49A7B6A83D1131.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Look.uasset'
+[2023.02.15-19.42.44:982][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 622 ms)
+[2023.02.15-19.42.44:988][576]AssetCheck: New page: Asset Save: IA_Look
+[2023.02.15-19.42.44:988][576]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/InputActions/IA_Look.IA_Look
+[2023.02.15-19.42.46:205][647]LogSlate: Window 'IA_Look' being destroyed
+[2023.02.15-19.42.46:213][647]LogSlate: Window 'IA_Look' being destroyed
+[2023.02.15-19.43.04:953][903]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Inputs/InputActions/IA_Movement.IA_Movement
+[2023.02.15-19.43.08:513][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.43.08:564][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Movement" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Movement.uasset" SILENT=true
+[2023.02.15-19.43.08:565][ 91]LogSavePackage: Moving output files for package: /Game/Inputs/InputActions/IA_Movement
+[2023.02.15-19.43.08:565][ 91]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IA_MovementC616D5064D28579B88D64490FFC5EAD2.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Movement.uasset'
+[2023.02.15-19.43.08:572][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 681 ms)
+[2023.02.15-19.43.08:578][ 91]AssetCheck: New page: Asset Save: IA_Movement
+[2023.02.15-19.43.08:578][ 91]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/InputActions/IA_Movement.IA_Movement
+[2023.02.15-19.43.08:994][116]LogSlate: Window 'IA_Movement' being destroyed
+[2023.02.15-19.43.09:001][116]LogSlate: Window 'IA_Movement' being destroyed
+[2023.02.15-19.43.11:354][255]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Inputs/IMC_MappingLevel.IMC_MappingLevel
+[2023.02.15-19.43.25:075][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.43.25:130][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IMC_MappingLevel" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset" SILENT=true
+[2023.02.15-19.43.25:131][ 35]LogSavePackage: Moving output files for package: /Game/Inputs/IMC_MappingLevel
+[2023.02.15-19.43.25:131][ 35]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IMC_MappingLevelDCAF689F4F28D9A19E8837A15B60127C.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset'
+[2023.02.15-19.43.25:137][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 743 ms)
+[2023.02.15-19.43.25:142][ 35]AssetCheck: New page: Asset Save: IMC_MappingLevel
+[2023.02.15-19.43.25:142][ 35]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Inputs/IMC_MappingLevel.IMC_MappingLevel
+[2023.02.15-19.44.10:154][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.02.15-19.44.10:159][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LVL_Maxime' took 0.063
+[2023.02.15-19.44.10:160][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inputs/IMC_MappingLevel] ([1] browsable assets)...
+[2023.02.15-19.44.10:160][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inputs/IMC_MappingLevel]
+[2023.02.15-19.44.10:162][360]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inputs/IMC_MappingLevel_Auto1
+[2023.02.15-19.44.10:162][360]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IMC_MappingLevel_Auto16C783CC54D797CEC6784698AF601983E.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/Autosaves/Game/Inputs/IMC_MappingLevel_Auto1.uasset'
+[2023.02.15-19.44.10:163][360]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.02.15-19.44.51:411][634]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-19.44.51:411][634]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-19.44.51:411][634]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.15-19.46.13:257][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.46.13:301][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IMC_MappingLevel" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset" SILENT=true
+[2023.02.15-19.46.13:302][458]LogSavePackage: Moving output files for package: /Game/Inputs/IMC_MappingLevel
+[2023.02.15-19.46.13:303][458]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IMC_MappingLevel3A0527A445FB74B5ED5191B15C0A27A0.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset'
+[2023.02.15-19.46.13:308][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 793 ms)
+[2023.02.15-19.46.13:314][458]AssetCheck: New page: Asset Save: IMC_MappingLevel
+[2023.02.15-19.46.13:314][458]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Inputs/IMC_MappingLevel.IMC_MappingLevel
+[2023.02.15-19.46.24:302][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.46.24:345][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IMC_MappingLevel" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset" SILENT=true
+[2023.02.15-19.46.24:346][104]LogSavePackage: Moving output files for package: /Game/Inputs/IMC_MappingLevel
+[2023.02.15-19.46.24:346][104]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IMC_MappingLevel74406F5E4A9C33ABF9CE5AB5ED733D9F.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset'
+[2023.02.15-19.46.24:352][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 844 ms)
+[2023.02.15-19.46.24:358][104]AssetCheck: New page: Asset Save: IMC_MappingLevel
+[2023.02.15-19.46.24:358][104]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Inputs/IMC_MappingLevel.IMC_MappingLevel
+[2023.02.15-19.46.26:570][234]LogSlate: Window 'IMC_MappingLevel' being destroyed
+[2023.02.15-19.46.26:575][234]LogSlate: Window 'IMC_MappingLevel' being destroyed
+[2023.02.15-19.47.12:865][986]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.47.12:918][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.47.12:923][986]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.47.12:923][986]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character241677744197107B04B5E7A0142EF2AA.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.47.12:929][986]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 908 ms)
+[2023.02.15-19.47.12:934][986]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.47.12:934][986]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.47.58:589][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.47.58:646][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.47.58:651][699]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.47.58:651][699]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterF784533A4DBEF2D8109F16B660FF867A.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.47.58:657][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 976 ms)
+[2023.02.15-19.47.58:663][699]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.47.58:663][699]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: ================================================
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: Total job queries 73, among them cache hits 0 (0.00%)
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: Tracking 73 distinct input hashes that result in 64 distinct outputs (87.67%)
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: RAM used: 0.70 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.15-19.48.00:938][805]LogShaderCompilers: Display: ================================================
+[2023.02.15-19.48.03:705][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.48.03:750][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset" SILENT=true
+[2023.02.15-19.48.03:752][962]LogSavePackage: Moving output files for package: /Game/Character/BP_Character
+[2023.02.15-19.48.03:753][962]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_CharacterBF63059648AD0009970EE486DB2FAD67.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset'
+[2023.02.15-19.48.03:758][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 1.02 sec)
+[2023.02.15-19.48.03:764][962]AssetCheck: New page: Asset Save: BP_Character
+[2023.02.15-19.48.03:764][962]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/BP_Character.BP_Character
+[2023.02.15-19.48.04:771][ 21]BlueprintLog: New page: Compile BP_Character
+[2023.02.15-19.48.04:831][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.15-19.48.16:099][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.48.16:150][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.48.16:155][661]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.48.16:155][661]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character210C675242CD5821E315889BC8057FA8.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.48.16:161][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.09 sec)
+[2023.02.15-19.48.16:165][661]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.48.16:165][661]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.50.18:029][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.50.18:084][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.50.18:090][396]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.50.18:090][396]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterA716128643C22AFBE64EC794A952A5AC.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.50.18:096][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.15 sec)
+[2023.02.15-19.50.18:102][396]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.50.18:102][396]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.50.40:027][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.50.40:080][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.50.40:087][671]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.50.40:088][671]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character512CFB6847697245A457398F81346F92.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.50.40:093][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.22 sec)
+[2023.02.15-19.50.40:099][671]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.50.40:099][671]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.50.41:670][766]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-19.50.41:730][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.02.15-19.50.50:122][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.50.50:183][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.50.50:189][888]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.50.50:190][888]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character4A65D1FE4101F8F8E14FAD9F3CCF58A3.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.50.50:197][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 1.30 sec)
+[2023.02.15-19.50.50:202][888]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.50.50:202][888]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.50.51:324][954]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-19.50.51:380][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.02.15-19.51.02:454][504]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:454][504]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:454][504]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:460][504]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:460][504]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:460][504]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:647][512]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:647][512]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:647][512]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:647][512]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:647][512]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:647][512]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:647][512]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:647][512]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:886][525]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:886][525]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:886][525]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:886][525]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:886][525]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:886][525]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:886][525]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.02:886][525]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path D:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: ================================================
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: Total job queries 88, among them cache hits 4 (4.55%)
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 70 distinct outputs (83.33%)
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.02.15-19.51.05:316][578]LogShaderCompilers: Display: ================================================
+[2023.02.15-19.52.07:778][535]LogEditorTransaction: Undo Move Nodes
+[2023.02.15-19.52.19:706][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.52.19:749][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.52.19:757][234]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.52.19:757][234]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character6860739C4FEC759E0631308F3A52DDD6.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.52.19:762][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 1.35 sec)
+[2023.02.15-19.52.19:770][234]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.52.19:771][234]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.52.30:821][821]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-19.52.31:283][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.15-19.52.32:488][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-19.52.32:502][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-19.52.32:502][886]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 21:52:32)
+[2023.02.15-19.52.32:534][886]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.02.15-19.52.32:534][886]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.15-19.52.32:549][886]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.52.32:550][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001346s)
+[2023.02.15-19.52.32:551][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001384s)
+[2023.02.15-19.52.32:551][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-19.52.32:551][886]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-19.52.32:551][886]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2023.02.15-19.52.32:600][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.15-19.52.32:614][886]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.15-19.52.32:614][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-19.52.32:615][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-19.52.32:615][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-19.52.32:615][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-19.52.32:615][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-19.52.32:615][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-19.52.32:615][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-19.52.32:615][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-19.52.32:615][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-19.52.32:615][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-19.52.32:615][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-19.52.32:618][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-19.52.32:633][886]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-19.52.32:633][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-19.52.32:633][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-19.52.32:633][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-19.52.32:634][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.02.15-19.52.32:634][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.02.15-19.52.32:636][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.02.15-19.52.32:636][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.02.15-19.52.32:636][886]LogInit: FAudioDevice initialized.
+[2023.02.15-19.52.32:636][886]LogAudio: Display: Audio Device (ID: 2) registered with world 'LVL_Maxime'.
+[2023.02.15-19.52.32:647][886]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-19.52.32:658][886]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-20.52.32
+[2023.02.15-19.52.32:658][886]LogWorld: Bringing up level for play took: 0.011944
+[2023.02.15-19.52.32:660][886]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.02.15-19.52.32:844][886]PIE: Server logged in
+[2023.02.15-19.52.32:845][886]PIE: Play in editor total start time 0,352 seconds.
+[2023.02.15-19.52.38:917][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.52.38:917][216]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.52.38:919][216]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-19.52.38:919][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.52.38:922][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-19.52.38:929][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.52.38:973][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.15-19.52.39:064][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.15-19.52.39:065][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.02.15-19.52.39:068][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.52.39:122][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.02.15-19.52.39:158][217]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.02.15-19.52.39:364][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.52.39:419][228]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-19.52.39:419][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-19.52.39:491][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.15-19.52.39:504][228]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-19.52.39:505][228]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime266E80094B47027B584CE18D3435BBE4.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-19.52.39:516][228]LogFileHelpers: Saving map 'LVL_Maxime' took 0.097
+[2023.02.15-19.52.39:523][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 1.51 sec)
+[2023.02.15-19.52.39:530][228]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-19.52.39:530][228]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-19.53.47:359][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-19.53.47:366][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-19.53.47:366][ 41]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 21:53:47)
+[2023.02.15-19.53.47:366][ 41]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.53.47:368][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001781s)
+[2023.02.15-19.53.47:368][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001826s)
+[2023.02.15-19.53.47:368][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-19.53.47:369][ 41]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-19.53.47:370][ 41]LogPlayLevel: PIE: World Init took: (0.001554s)
+[2023.02.15-19.53.47:431][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.02.15-19.53.47:436][ 41]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.15-19.53.47:436][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-19.53.47:436][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-19.53.47:436][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-19.53.47:436][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-19.53.47:436][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-19.53.47:436][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-19.53.47:436][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-19.53.47:436][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-19.53.47:437][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-19.53.47:437][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-19.53.47:437][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-19.53.47:439][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-19.53.47:453][ 41]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-19.53.47:454][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-19.53.47:454][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-19.53.47:454][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-19.53.47:455][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.15-19.53.47:455][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.02.15-19.53.47:457][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.15-19.53.47:457][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.15-19.53.47:457][ 41]LogInit: FAudioDevice initialized.
+[2023.02.15-19.53.47:457][ 41]LogAudio: Display: Audio Device (ID: 3) registered with world 'LVL_Maxime'.
+[2023.02.15-19.53.47:460][ 41]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-19.53.47:461][ 41]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-20.53.47
+[2023.02.15-19.53.47:461][ 41]LogWorld: Bringing up level for play took: 0.000483
+[2023.02.15-19.53.47:463][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.02.15-19.53.47:464][ 41]PIE: Server logged in
+[2023.02.15-19.53.47:465][ 41]PIE: Play in editor total start time 0,099 seconds.
+[2023.02.15-19.54.16:155][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.54.16:155][513]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.54.16:155][513]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-19.54.16:155][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.54.16:157][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-19.54.16:164][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.54.16:208][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.54.16:209][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.15-19.54.16:210][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.15-19.54.16:216][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.15-19.54.16:265][514]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.15-19.55.15:876][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.55.15:939][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.55.15:947][275]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.55.15:947][275]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character46F704CD45949C05664779A8BDC78926.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.55.15:953][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.59 sec)
+[2023.02.15-19.55.15:961][275]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.55.15:961][275]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.55.25:786][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.55.25:852][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.55.25:860][854]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.55.25:861][854]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character99F2CDEA492DFB69DE173FA312940D38.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.55.25:867][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.67 sec)
+[2023.02.15-19.55.25:873][854]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.55.25:873][854]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.55.26:716][903]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-19.55.26:786][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.15-19.55.28:013][971]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-19.55.28:019][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-19.55.28:019][971]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 21:55:28)
+[2023.02.15-19.55.28:019][971]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.55.28:021][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001479s)
+[2023.02.15-19.55.28:021][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001510s)
+[2023.02.15-19.55.28:021][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-19.55.28:022][971]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-19.55.28:022][971]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2023.02.15-19.55.28:068][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.15-19.55.28:070][971]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.15-19.55.28:070][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-19.55.28:070][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-19.55.28:070][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-19.55.28:070][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-19.55.28:070][971]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-19.55.28:070][971]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-19.55.28:070][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-19.55.28:070][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-19.55.28:071][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-19.55.28:071][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-19.55.28:071][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-19.55.28:072][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-19.55.28:086][971]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-19.55.28:086][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-19.55.28:086][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-19.55.28:086][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-19.55.28:087][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.02.15-19.55.28:087][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.02.15-19.55.28:089][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.02.15-19.55.28:089][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.02.15-19.55.28:089][971]LogInit: FAudioDevice initialized.
+[2023.02.15-19.55.28:089][971]LogAudio: Display: Audio Device (ID: 4) registered with world 'LVL_Maxime'.
+[2023.02.15-19.55.28:091][971]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-19.55.28:092][971]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-20.55.28
+[2023.02.15-19.55.28:092][971]LogWorld: Bringing up level for play took: 0.000529
+[2023.02.15-19.55.28:094][971]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.02.15-19.55.28:095][971]PIE: Server logged in
+[2023.02.15-19.55.28:096][971]PIE: Play in editor total start time 0,077 seconds.
+[2023.02.15-19.55.31:224][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.55.31:224][150]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.55.31:224][150]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-19.55.31:224][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.55.31:228][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-19.55.31:234][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.55.31:277][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.15-19.55.31:278][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.15-19.55.31:279][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.15-19.55.31:283][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.55.31:285][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.02.15-19.55.31:334][151]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.02.15-19.56.22:860][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.56.22:916][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.56.22:925][169]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.56.22:926][169]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character963106024FB0FF6A086008B007773A4C.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.56.22:931][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.74 sec)
+[2023.02.15-19.56.22:938][169]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.56.22:938][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.56.27:288][429]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-19.56.27:358][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.02.15-19.56.28:601][496]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-19.56.28:608][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-19.56.28:608][496]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 21:56:28)
+[2023.02.15-19.56.28:609][496]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.56.28:610][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001336s)
+[2023.02.15-19.56.28:610][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001371s)
+[2023.02.15-19.56.28:610][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-19.56.28:610][496]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-19.56.28:611][496]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2023.02.15-19.56.28:656][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.15-19.56.28:658][496]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.15-19.56.28:658][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-19.56.28:658][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-19.56.28:658][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-19.56.28:658][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-19.56.28:658][496]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-19.56.28:658][496]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-19.56.28:658][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-19.56.28:658][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-19.56.28:658][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-19.56.28:658][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-19.56.28:658][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-19.56.28:660][496]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-19.56.28:673][496]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-19.56.28:673][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-19.56.28:673][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-19.56.28:673][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-19.56.28:674][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.02.15-19.56.28:674][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.02.15-19.56.28:676][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.02.15-19.56.28:676][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.02.15-19.56.28:676][496]LogInit: FAudioDevice initialized.
+[2023.02.15-19.56.28:676][496]LogAudio: Display: Audio Device (ID: 5) registered with world 'LVL_Maxime'.
+[2023.02.15-19.56.28:678][496]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-19.56.28:678][496]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-20.56.28
+[2023.02.15-19.56.28:679][496]LogWorld: Bringing up level for play took: 0.000490
+[2023.02.15-19.56.28:681][496]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.02.15-19.56.28:682][496]PIE: Server logged in
+[2023.02.15-19.56.28:682][496]PIE: Play in editor total start time 0,075 seconds.
+[2023.02.15-19.56.31:794][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.56.31:794][674]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.56.31:794][674]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-19.56.31:794][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.56.31:797][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-19.56.31:803][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.56.31:847][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.56.31:847][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.02.15-19.56.31:849][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.02.15-19.56.31:854][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.15-19.56.31:903][675]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.15-19.56.32:673][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.56.32:727][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-19.56.32:728][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-19.56.32:774][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.15-19.56.32:779][720]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-19.56.32:780][720]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime5948C0974DEEF2C585DB5EA0FDBD2456.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-19.56.32:791][720]LogFileHelpers: Saving map 'LVL_Maxime' took 0.064
+[2023.02.15-19.56.32:799][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.86 sec)
+[2023.02.15-19.56.32:805][720]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-19.56.32:805][720]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-19.56.40:025][118]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.02.15-19.56.40:032][118]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.02.15-19.56.40:042][119]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.02.15-19.56.42:254][252]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Jump
+[2023.02.15-19.56.42:257][252]LogContentBrowser: End creating deferred item NewInputAction
+[2023.02.15-19.56.42:887][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.56.42:940][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Jump" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Jump.uasset" SILENT=true
+[2023.02.15-19.56.42:940][290]LogSavePackage: Moving output files for package: /Game/Inputs/InputActions/IA_Jump
+[2023.02.15-19.56.42:940][290]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IA_Jump561927794A051D5136B62FBA88C16A46.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Jump.uasset'
+[2023.02.15-19.56.42:948][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.92 sec)
+[2023.02.15-19.56.42:954][290]AssetCheck: New page: Asset Save: IA_Jump
+[2023.02.15-19.56.42:954][290]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/InputActions/IA_Jump.IA_Jump
+[2023.02.15-19.56.44:006][353]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Inputs/InputActions/IA_Jump.IA_Jump
+[2023.02.15-19.56.47:606][561]LogSlate: Window 'IA_Jump' being destroyed
+[2023.02.15-19.56.47:612][561]LogSlate: Window 'IA_Jump' being destroyed
+[2023.02.15-19.56.49:646][681]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Inputs/IMC_MappingLevel.IMC_MappingLevel
+[2023.02.15-19.56.57:568][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.56.57:618][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IMC_MappingLevel" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset" SILENT=true
+[2023.02.15-19.56.57:619][131]LogSavePackage: Moving output files for package: /Game/Inputs/IMC_MappingLevel
+[2023.02.15-19.56.57:620][131]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IMC_MappingLevel9DF7A3654E4B0AB671EB318545E15CB9.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset'
+[2023.02.15-19.56.57:626][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 1.98 sec)
+[2023.02.15-19.56.57:634][131]AssetCheck: New page: Asset Save: IMC_MappingLevel
+[2023.02.15-19.56.57:634][131]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Inputs/IMC_MappingLevel.IMC_MappingLevel
+[2023.02.15-19.56.59:931][267]LogSlate: Window 'IMC_MappingLevel' being destroyed
+[2023.02.15-19.56.59:937][267]LogSlate: Window 'IMC_MappingLevel' being destroyed
+[2023.02.15-19.58.15:660][715]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-19.58.15:733][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.02.15-19.58.15:751][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.58.15:813][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.58.15:824][715]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.58.15:824][715]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character409703A547B6930D8430F7A83AFE819A.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.58.15:831][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.06 sec)
+[2023.02.15-19.58.15:838][715]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.58.15:838][715]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.58.16:891][771]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-19.58.16:897][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-19.58.16:897][771]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 21:58:16)
+[2023.02.15-19.58.16:897][771]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.58.16:898][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
+[2023.02.15-19.58.16:898][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001707s)
+[2023.02.15-19.58.16:898][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-19.58.16:899][771]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-19.58.16:899][771]LogPlayLevel: PIE: World Init took: (0.001472s)
+[2023.02.15-19.58.16:945][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.02.15-19.58.16:948][771]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.15-19.58.16:948][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-19.58.16:948][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-19.58.16:948][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-19.58.16:948][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-19.58.16:948][771]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-19.58.16:948][771]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-19.58.16:948][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-19.58.16:948][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-19.58.16:948][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-19.58.16:948][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-19.58.16:948][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-19.58.16:950][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-19.58.16:964][771]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-19.58.16:964][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-19.58.16:964][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-19.58.16:964][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-19.58.16:965][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.02.15-19.58.16:965][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.02.15-19.58.16:967][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.02.15-19.58.16:967][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.02.15-19.58.16:967][771]LogInit: FAudioDevice initialized.
+[2023.02.15-19.58.16:967][771]LogAudio: Display: Audio Device (ID: 6) registered with world 'LVL_Maxime'.
+[2023.02.15-19.58.16:969][771]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-19.58.16:970][771]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-20.58.16
+[2023.02.15-19.58.16:970][771]LogWorld: Bringing up level for play took: 0.000464
+[2023.02.15-19.58.16:972][771]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.02.15-19.58.16:973][771]PIE: Server logged in
+[2023.02.15-19.58.16:974][771]PIE: Play in editor total start time 0,078 seconds.
+[2023.02.15-19.58.26:144][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.58.26:144][312]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-19.58.26:144][312]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-19.58.26:144][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.58.26:147][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-19.58.26:153][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-19.58.26:198][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-19.58.26:198][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.15-19.58.26:199][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.15-19.58.26:205][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.15-19.58.26:255][313]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.02.15-19.58.26:560][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.58.26:607][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-19.58.26:608][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-19.58.26:654][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.02.15-19.58.26:659][330]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-19.58.26:660][330]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime2023A22D4C6A85812725EE885F3027D9.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-19.58.26:671][330]LogFileHelpers: Saving map 'LVL_Maxime' took 0.064
+[2023.02.15-19.58.26:678][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.18 sec)
+[2023.02.15-19.58.26:685][330]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-19.58.26:685][330]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-19.58.33:657][725]LogEditorTransaction: Undo Move Node
+[2023.02.15-19.58.52:207][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.58.52:256][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.58.52:266][805]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.58.52:267][805]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character118F234846288A3276B0FBADFCD16C25.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.58.52:273][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.25 sec)
+[2023.02.15-19.58.52:281][805]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.58.52:282][805]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-19.58.53:670][889]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-19.58.53:742][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.15-19.59.06:322][623]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-19.59.06:364][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-19.59.06:373][623]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-19.59.06:374][623]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character35120185437C69D6827B5488ED561194.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-19.59.06:381][623]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.31 sec)
+[2023.02.15-19.59.06:387][623]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-19.59.06:387][623]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-20.00.16:932][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.00.16:983][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-20.00.16:993][229]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-20.00.16:993][229]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character67C6618E443A703EEFF24D962F70BE34.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-20.00.17:000][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.37 sec)
+[2023.02.15-20.00.17:008][229]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-20.00.17:008][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-20.00.18:898][343]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-20.00.18:970][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: ================================================
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Total job queries 111, among them cache hits 9 (8.11%)
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Tracking 97 distinct input hashes that result in 79 distinct outputs (81.44%)
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: RAM used: 0.83 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Jobs assigned 6, completed 1 (16.67%)
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.16 s
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Job execution time: average 2.01 s, max 2.01 s
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Job life time (pending + execution): average 2.02 s, max 2.02
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.02 s
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Average processing rate: 0.49 jobs/sec
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Total thread time: 0.62 s
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Total thread preprocess time: 0.05 s
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Percentage time preprocessing: 8.04%
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Effective parallelization: 0.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display:                                                  FHitProxyPS - 100.00% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2023.02.15-20.00.36:395][331]LogShaderCompilers: Display: ================================================
+[2023.02.15-20.02.08:922][839]Cmd: TRANSACTION UNDO
+[2023.02.15-20.02.08:922][839]LogEditorTransaction: Undo Rotate Elements
+[2023.02.15-20.04.47:231][615]LogEditorViewport: Clicking Background
+[2023.02.15-20.04.47:849][651]LogEditorViewport: Clicking Background
+[2023.02.15-20.04.48:019][661]LogEditorViewport: Clicking Background
+[2023.02.15-20.04.48:433][685]LogEditorViewport: Clicking Background
+[2023.02.15-20.04.48:520][690]LogEditorViewport: Clicking Background
+[2023.02.15-20.04.49:306][736]LogEditorViewport: Clicking Background
+[2023.02.15-20.04.49:392][741]LogEditorViewport: Clicking Background
+[2023.02.15-20.05.17:216][399]LogViewport: Scene viewport resized to 1235x588, mode Windowed.
+[2023.02.15-20.05.17:253][401]LogViewport: Scene viewport resized to 1224x588, mode Windowed.
+[2023.02.15-20.05.17:297][403]LogViewport: Scene viewport resized to 1209x588, mode Windowed.
+[2023.02.15-20.05.17:336][405]LogViewport: Scene viewport resized to 1200x588, mode Windowed.
+[2023.02.15-20.05.17:380][407]LogViewport: Scene viewport resized to 1186x588, mode Windowed.
+[2023.02.15-20.05.17:651][423]LogViewport: Scene viewport resized to 1172x588, mode Windowed.
+[2023.02.15-20.05.17:692][425]LogViewport: Scene viewport resized to 1159x588, mode Windowed.
+[2023.02.15-20.05.17:732][427]LogViewport: Scene viewport resized to 1147x588, mode Windowed.
+[2023.02.15-20.05.17:772][429]LogViewport: Scene viewport resized to 1134x588, mode Windowed.
+[2023.02.15-20.05.17:813][431]LogViewport: Scene viewport resized to 1123x588, mode Windowed.
+[2023.02.15-20.08.26:886][216]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.02.15-20.08.26:892][216]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.08.26:897][216]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LVL_Maxime_Auto2
+[2023.02.15-20.08.26:897][216]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime_Auto20A24BC1A4E8C3C9C13A450B2842FF1C4.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/Autosaves/Game/Levels/LVL_Maxime_Auto2.umap'
+[2023.02.15-20.08.26:911][216]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LVL_Maxime' took 0.097
+[2023.02.15-20.08.26:911][216]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2023.02.15-20.11.01:352][206]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.15-20.13.19:616][628]Cmd: SELECT NONE
+[2023.02.15-20.13.20:136][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.13.20:177][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.13.20:178][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.13.20:227][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.15-20.13.20:232][637]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.13.20:233][637]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime14C63F8F4D13AAA2E4D57398204F5969.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.13.20:244][637]LogFileHelpers: Saving map 'LVL_Maxime' took 0.067
+[2023.02.15-20.13.20:252][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.49 sec)
+[2023.02.15-20.13.20:259][637]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.13.20:259][637]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.13.23:609][837]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-20.13.23:615][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-20.13.23:615][837]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 22:13:23)
+[2023.02.15-20.13.23:615][837]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.13.23:617][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001468s)
+[2023.02.15-20.13.23:617][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001499s)
+[2023.02.15-20.13.23:617][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.13.23:617][837]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-20.13.23:618][837]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2023.02.15-20.13.23:664][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.02.15-20.13.23:665][837]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.15-20.13.23:665][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-20.13.23:665][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-20.13.23:665][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-20.13.23:665][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-20.13.23:665][837]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-20.13.23:665][837]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-20.13.23:665][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-20.13.23:665][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-20.13.23:666][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-20.13.23:666][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-20.13.23:666][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-20.13.23:668][837]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-20.13.23:681][837]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-20.13.23:682][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-20.13.23:682][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-20.13.23:682][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-20.13.23:682][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.02.15-20.13.23:682][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.02.15-20.13.23:684][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.02.15-20.13.23:684][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.02.15-20.13.23:684][837]LogInit: FAudioDevice initialized.
+[2023.02.15-20.13.23:684][837]LogAudio: Display: Audio Device (ID: 7) registered with world 'LVL_Maxime'.
+[2023.02.15-20.13.23:686][837]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-20.13.23:687][837]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-21.13.23
+[2023.02.15-20.13.23:687][837]LogWorld: Bringing up level for play took: 0.000551
+[2023.02.15-20.13.23:689][837]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.02.15-20.13.23:690][837]PIE: Server logged in
+[2023.02.15-20.13.23:691][837]PIE: Play in editor total start time 0,076 seconds.
+[2023.02.15-20.13.28:024][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.13.28:024][ 86]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.13.28:024][ 86]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-20.13.28:024][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.13.28:027][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-20.13.28:032][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.13.28:075][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.15-20.13.28:076][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.15-20.13.28:077][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.15-20.13.28:080][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.13.28:083][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.15-20.13.28:119][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.02.15-20.13.28:447][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.13.28:487][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.13.28:488][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.13.28:534][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.02.15-20.13.28:539][106]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.13.28:539][106]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_MaximeF41518004F26F7B3D89B459393E3F8C8.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.13.28:550][106]LogFileHelpers: Saving map 'LVL_Maxime' took 0.063
+[2023.02.15-20.13.28:557][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.60 sec)
+[2023.02.15-20.13.28:564][106]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.13.28:564][106]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.13.39:512][747]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-20.13.39:519][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-20.13.39:519][747]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 22:13:39)
+[2023.02.15-20.13.39:520][747]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.13.39:521][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001359s)
+[2023.02.15-20.13.39:521][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001387s)
+[2023.02.15-20.13.39:521][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.13.39:521][747]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-20.13.39:522][747]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2023.02.15-20.13.39:569][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.15-20.13.39:570][747]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.02.15-20.13.39:570][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-20.13.39:570][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-20.13.39:570][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-20.13.39:570][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-20.13.39:570][747]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-20.13.39:570][747]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-20.13.39:570][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-20.13.39:570][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-20.13.39:571][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-20.13.39:571][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-20.13.39:571][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-20.13.39:573][747]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-20.13.39:586][747]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-20.13.39:587][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-20.13.39:587][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-20.13.39:587][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-20.13.39:587][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.02.15-20.13.39:587][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.02.15-20.13.39:589][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.02.15-20.13.39:590][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.02.15-20.13.39:590][747]LogInit: FAudioDevice initialized.
+[2023.02.15-20.13.39:590][747]LogAudio: Display: Audio Device (ID: 8) registered with world 'LVL_Maxime'.
+[2023.02.15-20.13.39:592][747]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-20.13.39:592][747]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-21.13.39
+[2023.02.15-20.13.39:593][747]LogWorld: Bringing up level for play took: 0.000510
+[2023.02.15-20.13.39:595][747]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.02.15-20.13.39:596][747]PIE: Server logged in
+[2023.02.15-20.13.39:597][747]PIE: Play in editor total start time 0,078 seconds.
+[2023.02.15-20.13.50:664][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.13.50:664][397]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.13.50:664][397]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-20.13.50:664][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.13.50:667][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-20.13.50:672][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.13.50:716][397]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.15-20.13.50:717][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.02.15-20.13.50:718][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.02.15-20.13.50:721][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.13.50:724][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.15-20.13.50:771][398]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.02.15-20.13.51:631][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.13.51:684][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.13.51:685][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.13.51:731][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.02.15-20.13.51:737][448]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.13.51:737][448]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime71CEC364483BE52C8F52D69D21B1832A.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.13.51:749][448]LogFileHelpers: Saving map 'LVL_Maxime' took 0.064
+[2023.02.15-20.13.51:756][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2.72 sec)
+[2023.02.15-20.13.51:763][448]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.13.51:763][448]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.13.58:390][841]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.15-20.13.59:381][900]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-20.13.59:386][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-20.13.59:386][900]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 22:13:59)
+[2023.02.15-20.13.59:386][900]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.13.59:388][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001471s)
+[2023.02.15-20.13.59:388][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001497s)
+[2023.02.15-20.13.59:388][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.13.59:389][900]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-20.13.59:389][900]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2023.02.15-20.13.59:435][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.15-20.13.59:435][900]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.02.15-20.13.59:435][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-20.13.59:435][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-20.13.59:435][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-20.13.59:435][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-20.13.59:435][900]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-20.13.59:435][900]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-20.13.59:435][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-20.13.59:436][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-20.13.59:436][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-20.13.59:436][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-20.13.59:436][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-20.13.59:438][900]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-20.13.59:454][900]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-20.13.59:454][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-20.13.59:454][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-20.13.59:454][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-20.13.59:454][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.02.15-20.13.59:454][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.02.15-20.13.59:456][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.02.15-20.13.59:456][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.02.15-20.13.59:456][900]LogInit: FAudioDevice initialized.
+[2023.02.15-20.13.59:456][900]LogAudio: Display: Audio Device (ID: 9) registered with world 'LVL_Maxime'.
+[2023.02.15-20.13.59:459][900]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-20.13.59:460][900]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-21.13.59
+[2023.02.15-20.13.59:460][900]LogWorld: Bringing up level for play took: 0.000546
+[2023.02.15-20.13.59:462][900]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.02.15-20.13.59:463][900]PIE: Server logged in
+[2023.02.15-20.13.59:464][900]PIE: Play in editor total start time 0,078 seconds.
+[2023.02.15-20.14.05:924][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.14.05:924][280]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.14.05:924][280]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-20.14.05:924][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.14.05:927][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-20.14.05:933][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.14.05:976][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.14.05:976][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.02.15-20.14.05:977][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.02.15-20.14.05:983][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.02.15-20.14.06:031][281]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.15-20.14.06:376][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.14.06:419][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.14.06:420][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.14.06:466][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.02.15-20.14.06:472][300]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.14.06:473][300]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime66F0156D43E3C9F8501D42B4A19A853D.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.14.06:484][300]LogFileHelpers: Saving map 'LVL_Maxime' took 0.065
+[2023.02.15-20.14.06:491][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 2.84 sec)
+[2023.02.15-20.14.06:498][300]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.14.06:498][300]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.15.24:625][113]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.15-20.15.26:441][221]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-20.15.26:448][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-20.15.26:448][221]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 22:15:26)
+[2023.02.15-20.15.26:449][221]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.15.26:450][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001981s)
+[2023.02.15-20.15.26:450][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.002016s)
+[2023.02.15-20.15.26:450][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.15.26:451][221]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-20.15.26:451][221]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2023.02.15-20.15.26:499][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.15-20.15.26:500][221]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.15-20.15.26:500][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-20.15.26:500][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-20.15.26:500][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-20.15.26:500][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-20.15.26:500][221]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-20.15.26:500][221]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-20.15.26:500][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-20.15.26:500][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-20.15.26:501][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-20.15.26:501][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-20.15.26:501][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-20.15.26:502][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-20.15.26:516][221]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-20.15.26:516][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-20.15.26:516][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-20.15.26:516][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-20.15.26:516][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.02.15-20.15.26:516][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.02.15-20.15.26:519][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.02.15-20.15.26:519][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.02.15-20.15.26:519][221]LogInit: FAudioDevice initialized.
+[2023.02.15-20.15.26:519][221]LogAudio: Display: Audio Device (ID: 10) registered with world 'LVL_Maxime'.
+[2023.02.15-20.15.26:521][221]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-20.15.26:522][221]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-21.15.26
+[2023.02.15-20.15.26:522][221]LogWorld: Bringing up level for play took: 0.000549
+[2023.02.15-20.15.26:524][221]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.02.15-20.15.26:525][221]PIE: Server logged in
+[2023.02.15-20.15.26:526][221]PIE: Play in editor total start time 0,078 seconds.
+[2023.02.15-20.15.38:253][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.15.38:253][915]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.15.38:253][915]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-20.15.38:253][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.15.38:257][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-20.15.38:264][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.15.38:310][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.15.38:310][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.02.15-20.15.38:312][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.02.15-20.15.38:318][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.02.15-20.15.38:370][916]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.02.15-20.15.38:580][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.15.38:631][926]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.15.38:632][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.15.38:680][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.02.15-20.15.38:685][926]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.15.38:686][926]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_MaximeCAB1F91841C9F47F43F101BEB2C3A27C.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.15.38:699][926]LogFileHelpers: Saving map 'LVL_Maxime' took 0.068
+[2023.02.15-20.15.38:706][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 2.96 sec)
+[2023.02.15-20.15.38:713][926]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.15.38:713][926]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.29.20:598][973]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-20.29.20:603][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-20.29.20:604][973]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 22:29:20)
+[2023.02.15-20.29.20:632][973]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.29.20:634][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001527s)
+[2023.02.15-20.29.20:634][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001567s)
+[2023.02.15-20.29.20:634][973]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.29.20:634][973]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-20.29.20:634][973]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2023.02.15-20.29.20:686][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.02.15-20.29.20:687][973]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.02.15-20.29.20:687][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-20.29.20:687][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-20.29.20:687][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-20.29.20:687][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-20.29.20:687][973]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-20.29.20:687][973]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-20.29.20:687][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-20.29.20:687][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-20.29.20:688][973]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-20.29.20:688][973]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-20.29.20:688][973]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-20.29.20:691][973]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-20.29.20:706][973]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-20.29.20:706][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-20.29.20:706][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-20.29.20:706][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-20.29.20:707][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.02.15-20.29.20:707][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.02.15-20.29.20:708][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.02.15-20.29.20:709][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.02.15-20.29.20:709][973]LogInit: FAudioDevice initialized.
+[2023.02.15-20.29.20:709][973]LogAudio: Display: Audio Device (ID: 11) registered with world 'LVL_Maxime'.
+[2023.02.15-20.29.20:711][973]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-20.29.20:712][973]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-21.29.20
+[2023.02.15-20.29.20:712][973]LogWorld: Bringing up level for play took: 0.000523
+[2023.02.15-20.29.20:714][973]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.02.15-20.29.20:715][973]PIE: Server logged in
+[2023.02.15-20.29.20:716][973]PIE: Play in editor total start time 0,112 seconds.
+[2023.02.15-20.29.33:552][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.29.33:552][734]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.29.33:552][734]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-20.29.33:552][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.29.33:556][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-20.29.33:561][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.29.33:606][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.15-20.29.33:606][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.15-20.29.33:608][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.02.15-20.29.33:611][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.29.33:613][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.15-20.29.33:660][735]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.15-20.29.34:004][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.29.34:059][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.29.34:060][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.29.34:106][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.02.15-20.29.34:112][754]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.29.34:112][754]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_MaximeBD3EC14643ADA123BF146F83438C7E26.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.29.34:123][754]LogFileHelpers: Saving map 'LVL_Maxime' took 0.064
+[2023.02.15-20.29.34:130][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 3.09 sec)
+[2023.02.15-20.29.34:137][754]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.29.34:138][754]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.31.31:193][209]LogDerivedDataCache: C:/Users/max22/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.086 and deleted 0 files with total size 0 MiB. Scanned 3441 files in 3416 folders with total size 191 MiB.
+[2023.02.15-20.43.57:890][504]LogEditorViewport: Clicking Background
+[2023.02.15-20.44.06:170][895]LogEditorViewport: Clicking Background
+[2023.02.15-20.44.09:243][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.44.09:294][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.44.09:295][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.44.09:345][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.02.15-20.44.09:350][ 73]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.44.09:351][ 73]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime17F888A54737D2144D8EA0A830908B2B.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.44.09:363][ 73]LogFileHelpers: Saving map 'LVL_Maxime' took 0.070
+[2023.02.15-20.44.09:375][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 3.22 sec)
+[2023.02.15-20.44.09:382][ 73]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.44.09:382][ 73]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.47.24:328][884]LogViewport: Scene viewport resized to 1207x656, mode Windowed.
+[2023.02.15-20.47.29:179][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.47.29:227][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset" SILENT=true
+[2023.02.15-20.47.29:229][170]LogSavePackage: Moving output files for package: /Game/Character/BP_Character
+[2023.02.15-20.47.29:230][170]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_Character85076102492768C47553708F043B61C7.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset'
+[2023.02.15-20.47.29:238][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 3.28 sec)
+[2023.02.15-20.47.29:246][170]AssetCheck: New page: Asset Save: BP_Character
+[2023.02.15-20.47.29:246][170]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/BP_Character.BP_Character
+[2023.02.15-20.47.57:333][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.47.57:387][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset" SILENT=true
+[2023.02.15-20.47.57:390][850]LogSavePackage: Moving output files for package: /Game/Character/BP_Character
+[2023.02.15-20.47.57:390][850]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_Character8886926C4076D12D4BF23C9F25DE79DB.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset'
+[2023.02.15-20.47.57:396][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 3.35 sec)
+[2023.02.15-20.47.57:403][850]AssetCheck: New page: Asset Save: BP_Character
+[2023.02.15-20.47.57:403][850]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/BP_Character.BP_Character
+[2023.02.15-20.48.03:141][191]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-20.48.03:148][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-20.48.03:149][191]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 22:48:03)
+[2023.02.15-20.48.03:149][191]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.48.03:149][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001444s)
+[2023.02.15-20.48.03:149][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001471s)
+[2023.02.15-20.48.03:150][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.48.03:150][191]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-20.48.03:150][191]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2023.02.15-20.48.03:200][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.02.15-20.48.03:203][191]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.15-20.48.03:203][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-20.48.03:203][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-20.48.03:203][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-20.48.03:203][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-20.48.03:203][191]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-20.48.03:203][191]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-20.48.03:203][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-20.48.03:203][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-20.48.03:204][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-20.48.03:204][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-20.48.03:204][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-20.48.03:206][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-20.48.03:222][191]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-20.48.03:222][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-20.48.03:222][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-20.48.03:222][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-20.48.03:223][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.02.15-20.48.03:223][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.02.15-20.48.03:225][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.02.15-20.48.03:225][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.02.15-20.48.03:225][191]LogInit: FAudioDevice initialized.
+[2023.02.15-20.48.03:225][191]LogAudio: Display: Audio Device (ID: 12) registered with world 'LVL_Maxime'.
+[2023.02.15-20.48.03:228][191]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-20.48.03:229][191]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-21.48.03
+[2023.02.15-20.48.03:229][191]LogWorld: Bringing up level for play took: 0.000501
+[2023.02.15-20.48.03:231][191]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.02.15-20.48.03:232][191]PIE: Server logged in
+[2023.02.15-20.48.03:233][191]PIE: Play in editor total start time 0,085 seconds.
+[2023.02.15-20.48.05:871][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.48.05:871][340]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-20.48.05:871][340]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-20.48.05:872][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.48.05:875][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-20.48.05:881][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-20.48.05:925][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-20.48.05:925][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.15-20.48.05:927][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.15-20.48.05:932][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.15-20.48.05:967][341]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.15-20.48.06:328][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.48.06:372][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.48.06:373][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.48.06:420][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.02.15-20.48.06:424][362]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.48.06:425][362]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime803634244419A9F3640B23BF0F61DCFC.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.48.06:436][362]LogFileHelpers: Saving map 'LVL_Maxime' took 0.064
+[2023.02.15-20.48.06:442][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.46 sec)
+[2023.02.15-20.48.06:448][362]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.48.06:448][362]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.49.03:674][172]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.02.15-20.49.03:681][172]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.02.15-20.49.03:691][173]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.02.15-20.49.07:668][412]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2023.02.15-20.49.07:670][412]LogContentBrowser: End creating deferred item NewInputAction
+[2023.02.15-20.49.09:695][533]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Inputs/InputActions/IA_Interact.IA_Interact
+[2023.02.15-20.49.15:355][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.49.15:407][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/InputActions/IA_Interact" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Interact.uasset" SILENT=true
+[2023.02.15-20.49.15:408][810]LogSavePackage: Moving output files for package: /Game/Inputs/InputActions/IA_Interact
+[2023.02.15-20.49.15:408][810]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IA_InteractC30577054697E05A0792619FE8018C34.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Interact.uasset'
+[2023.02.15-20.49.15:414][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 3.52 sec)
+[2023.02.15-20.49.15:421][810]AssetCheck: New page: Asset Save: IA_Interact
+[2023.02.15-20.49.15:421][810]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/InputActions/IA_Interact.IA_Interact
+[2023.02.15-20.49.15:886][838]LogSlate: Window 'IA_Interact' being destroyed
+[2023.02.15-20.49.15:892][838]LogSlate: Window 'IA_Interact' being destroyed
+[2023.02.15-20.49.18:246][978]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Inputs/IMC_MappingLevel.IMC_MappingLevel
+[2023.02.15-20.49.26:919][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.49.26:976][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IMC_MappingLevel" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset" SILENT=true
+[2023.02.15-20.49.26:977][474]LogSavePackage: Moving output files for package: /Game/Inputs/IMC_MappingLevel
+[2023.02.15-20.49.26:978][474]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/IMC_MappingLevel2A45BD8B4AD8760FB86324884302AB5C.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset'
+[2023.02.15-20.49.26:984][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 3.58 sec)
+[2023.02.15-20.49.26:992][474]AssetCheck: New page: Asset Save: IMC_MappingLevel
+[2023.02.15-20.49.26:992][474]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Inputs/IMC_MappingLevel.IMC_MappingLevel
+[2023.02.15-20.49.28:478][563]LogSlate: Window 'IMC_MappingLevel' being destroyed
+[2023.02.15-20.49.28:487][563]LogSlate: Window 'IMC_MappingLevel' being destroyed
+[2023.02.15-20.54.27:231][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.54.27:286][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-20.54.27:287][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-20.54.27:343][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.02.15-20.54.27:348][ 64]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-20.54.27:348][ 64]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime6835734042DB8A9BE25051A043A4EEBC.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-20.54.27:362][ 64]LogFileHelpers: Saving map 'LVL_Maxime' took 0.077
+[2023.02.15-20.54.27:368][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 3.72 sec)
+[2023.02.15-20.54.27:376][ 64]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-20.54.27:376][ 64]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-20.54.54:306][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.54.54:363][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-20.54.54:373][536]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-20.54.54:374][536]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character6F89C52749159192349A7A9C93395094.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-20.54.54:380][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.80 sec)
+[2023.02.15-20.54.54:389][536]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-20.54.54:389][536]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-20.57.48:195][ 73]LogSlate: Took 0.053943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.02.15-20.57.48:246][ 73]LogSlate: Took 0.008998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.15-20.58.38:668][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.58.38:732][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/BP_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset" SILENT=true
+[2023.02.15-20.58.38:735][870]LogSavePackage: Moving output files for package: /Game/Character/BP_Character
+[2023.02.15-20.58.38:736][870]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/BP_Character8CA1FD3A46F3200A30FCD58C5F8A6B97.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset'
+[2023.02.15-20.58.38:740][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 3.87 sec)
+[2023.02.15-20.58.38:748][870]AssetCheck: New page: Asset Save: BP_Character
+[2023.02.15-20.58.38:748][870]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/BP_Character.BP_Character
+[2023.02.15-20.58.44:540][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-20.58.44:589][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-20.58.44:600][208]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-20.58.44:601][208]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character8240F42E4C8416D550C446BA462B0954.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-20.58.44:607][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.93 sec)
+[2023.02.15-20.58.44:614][208]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-20.58.44:614][208]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-20.59.51:439][ 46]LogSlate: Window 'New Channel' being destroyed
+[2023.02.15-20.59.58:217][446]BlueprintLog: New page: Compile BP_Character
+[2023.02.15-20.59.58:304][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.02.15-21.00.26:553][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.00.26:600][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.00.26:610][ 32]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.00.26:611][ 32]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character290ECBAD4C8F9DDFBA732BBB158BA01C.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.00.26:618][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 4.00 sec)
+[2023.02.15-21.00.26:627][ 32]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.00.26:627][ 32]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.02.04:982][100]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-21.02.05:058][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.15-21.02.05:081][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.02.05:143][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.02.05:155][100]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.02.05:155][100]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterA92F05CD464A1D072E572997AB1E997E.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.02.05:162][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.08 sec)
+[2023.02.15-21.02.05:169][100]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.02.05:169][100]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.03.02:283][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.03.02:349][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.03.02:361][375]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.03.02:362][375]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character6FCB8812413511330D9D5B97079958AB.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.03.02:369][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 4.17 sec)
+[2023.02.15-21.03.02:377][375]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.03.02:377][375]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.03.03:502][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.03.03:560][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.03.03:573][443]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.03.03:574][443]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterA3A28ED34A6A3619023CC2ACAF1558F0.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.03.03:581][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 4.25 sec)
+[2023.02.15-21.03.03:588][443]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.03.03:588][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.03.06:097][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.03.06:157][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.03.06:169][594]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.03.06:170][594]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_CharacterE8EB10544A14B994D46284A8544116F5.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.03.06:177][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.32 sec)
+[2023.02.15-21.03.06:184][594]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.03.06:184][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.03.08:747][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.03.08:811][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.03.08:823][747]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.03.08:824][747]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character978E882C4DD5C4A52057A984B5630BBB.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.03.08:830][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.41 sec)
+[2023.02.15-21.03.08:838][747]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.03.08:838][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.03.09:750][801]BlueprintLog: New page: Compile PC_Character
+[2023.02.15-21.03.09:827][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.02.15-21.03.11:007][865]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.15-21.03.11:014][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.15-21.03.11:014][865]PIE: New page: PIE session: LVL_Maxime (15 févr. 2023 à 23:03:11)
+[2023.02.15-21.03.11:014][865]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-21.03.11:015][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001316s)
+[2023.02.15-21.03.11:015][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LVL_Maxime.LVL_Maxime to /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime (0.001342s)
+[2023.02.15-21.03.11:016][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-21.03.11:016][865]LogAIModule: Creating AISystem for world LVL_Maxime
+[2023.02.15-21.03.11:016][865]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2023.02.15-21.03.11:064][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.15-21.03.11:066][865]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.02.15-21.03.11:066][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.15-21.03.11:066][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.15-21.03.11:066][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.15-21.03.11:066][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.15-21.03.11:066][865]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.15-21.03.11:066][865]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.15-21.03.11:066][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.15-21.03.11:066][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.15-21.03.11:067][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.15-21.03.11:067][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.15-21.03.11:067][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.15-21.03.11:069][865]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.15-21.03.11:083][865]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (2- HyperX Cloud Flight Wireless)
+[2023.02.15-21.03.11:084][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.15-21.03.11:084][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.15-21.03.11:084][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.15-21.03.11:084][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.02.15-21.03.11:084][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.02.15-21.03.11:086][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.02.15-21.03.11:086][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.02.15-21.03.11:086][865]LogInit: FAudioDevice initialized.
+[2023.02.15-21.03.11:086][865]LogAudio: Display: Audio Device (ID: 13) registered with world 'LVL_Maxime'.
+[2023.02.15-21.03.11:089][865]LogLoad: Game class is 'GM_Level_C'
+[2023.02.15-21.03.11:089][865]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LVL_Maxime.LVL_Maxime up for play (max tick rate 60) at 2023.02.15-22.03.11
+[2023.02.15-21.03.11:089][865]LogWorld: Bringing up level for play took: 0.000465
+[2023.02.15-21.03.11:091][865]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.02.15-21.03.11:093][865]PIE: Server logged in
+[2023.02.15-21.03.11:093][865]PIE: Play in editor total start time 0,079 seconds.
+[2023.02.15-21.03.16:142][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-21.03.16:142][136]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LVL_Maxime
+[2023.02.15-21.03.16:142][136]LogWorld: UWorld::CleanupWorld for LVL_Maxime, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-21.03.16:142][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-21.03.16:145][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.15-21.03.16:150][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-21.03.16:195][136]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.15-21.03.16:195][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.15-21.03.16:197][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.15-21.03.16:201][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.15-21.03.16:204][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.15-21.03.16:242][137]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.02.15-21.06.37:134][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.06.37:187][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-21.06.37:188][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LVL_Maxime" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.15-21.06.37:239][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.02.15-21.06.37:244][970]LogSavePackage: Moving output files for package: /Game/Levels/LVL_Maxime
+[2023.02.15-21.06.37:245][970]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/LVL_Maxime49317113474F59AA90F483A14852B560.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap'
+[2023.02.15-21.06.37:256][970]LogFileHelpers: Saving map 'LVL_Maxime' took 0.069
+[2023.02.15-21.06.37:263][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.54 sec)
+[2023.02.15-21.06.37:271][970]AssetCheck: New page: Asset Save: LVL_Maxime
+[2023.02.15-21.06.37:271][970]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LVL_Maxime.LVL_Maxime
+[2023.02.15-21.07.45:974][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.15-21.07.46:038][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Game/PC_Character" FILE="C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset" SILENT=true
+[2023.02.15-21.07.46:051][767]LogSavePackage: Moving output files for package: /Game/BluePrints/Game/PC_Character
+[2023.02.15-21.07.46:051][767]LogSavePackage: Moving 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Saved/PC_Character85D8D93345F878B215E9BF86120B654E.tmp' to 'C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset'
+[2023.02.15-21.07.46:058][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 4.62 sec)
+[2023.02.15-21.07.46:067][767]AssetCheck: New page: Asset Save: PC_Character
+[2023.02.15-21.07.46:067][767]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Game/PC_Character.PC_Character
+[2023.02.15-21.07.59:430][529]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.02.15-21.07.59:437][529]LogContentBrowser: Creating deferred item: NewWorld
+[2023.02.15-21.07.59:468][531]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.02.15-21.08.00:428][589]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.02.15-21.08.00:509][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.15-21.08.00:513][589]LogContentBrowser: End creating deferred item NewWorld
+[2023.02.15-21.08.01:737][662]LogObjectTools: Deleting 1 worlds: /Game/BluePrints/Actors/NewWorld.NewWorld
+[2023.02.15-21.08.01:737][662]LogObjectTools: Currently 5 active worlds: /Game/Levels/LVL_Maxime.LVL_Maxime, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4
+[2023.02.15-21.08.01:791][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.15-21.08.03:788][662]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.15-21.08.03:793][662]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.02.15-21.08.03:793][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.15-21.08.03:982][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.02.15-21.08.04:030][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.15-21.08.04:075][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms

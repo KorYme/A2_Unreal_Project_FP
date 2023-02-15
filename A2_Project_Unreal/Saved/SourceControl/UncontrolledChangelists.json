@@ -15,7 +15,12 @@
 				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Menu.umap",
 				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset",
 				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/HUD_Level.uasset",
-				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset"
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Look.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Sprint.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Movement.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Jump.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/InputActions/IA_Interact.uasset"
 			]
 		}
 	]
