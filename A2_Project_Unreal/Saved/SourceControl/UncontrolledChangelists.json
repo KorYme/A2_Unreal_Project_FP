@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Test.umap"
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Test.umap",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/GM_Level.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/PC_Character.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/GI_GameInstance.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Maxime.umap",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_DesignLevel.umap",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Justin.umap",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Levels/LVL_Menu.umap",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Character/BP_Character.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/BluePrints/Game/HUD_Level.uasset",
+				"C:/GitHub/Unreal Projects/A2_Unreal_Project_FP/A2_Project_Unreal/Content/Inputs/IMC_MappingLevel.uasset"
 			]
 		}
 	]
