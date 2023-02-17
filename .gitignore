@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+A2_Project_Unreal/Intermediate/
+
+A2_Project_Unreal/Saved/Config/WindowsEditor/
+
+A2_Project_Unreal/Saved/Logs/
+
+A2_Project_Unreal/Saved/Config/CrashReportClient/UECC-Windows-80A344B44F8B37BF73692CAFB49C1A64/
+
+A2_Project_Unreal/Saved/Config/CrashReportClient/UECC-Windows-59F33C9641420F1025D458A947439FB9/
