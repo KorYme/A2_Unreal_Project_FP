@@ -1,0 +1,3 @@
+;NpcID;ConversationID;LineID;IsQuestion;Dialogue;Reponse1;Reponse2;Reponse3;Reponse4;ConversationIDRedirection
+1;1;1;1;True;BONJOUR;A;B;C;D;2
+2;;;;;;;;;;
