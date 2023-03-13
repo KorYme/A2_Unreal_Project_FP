@@ -11,9 +11,9 @@
 				"Editor"
 			]
 		},
-		{
-			"Name": "SunPosition",
-			"Enabled": true
-		}
+	],
+	"TargetPlatforms": [
+		"HoloLens",
+		"Windows"
 	]
 }
